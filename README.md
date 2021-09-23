@@ -1,7 +1,9 @@
-# Computational NeuroScience
+# Computational Neuroscience
 
 This code is an implementation of Computational Neuroscience mini-projects developed during the Computational Neuroscience course @ [Department of Computer Science](https://www.di.unipi.it/en/) 
 @ [University of Pisa](https://www.unipi.it/index.php/english).
+
+## Contents
 
 * [Izhikevich model](https://github.com/FabioMurgese/CNS/tree/main/LAB1/Assignment%201)
 * [Hebbian learning](https://github.com/FabioMurgese/CNS/tree/main/LAB2_1)
